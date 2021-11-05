@@ -28,6 +28,7 @@
 }
 ul li{
     margin-right: 50vh; 
+
 }
 ul{
     list-style-type: none;
@@ -36,6 +37,7 @@ ul{
 ul li{
     font-size: 1rem;
     padding: 10px;
+    text-decoration: none;
 }
 ul li label{
     cursor: pointer;
